@@ -5,5 +5,5 @@
 - Libray: Jetpack Compose
 
 ## AI Models
-- Image Classification Model: MobileNetV2  ([TensorFlow](https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2))
-- Image to Text Model: 
+- Image Classification Model: EfficientNet Tensorflow Lite 4  ([TensorFlow](https://www.kaggle.com/models/tensorflow/efficientnet/tfLite))
+- Image Captioning Model: GPT2 Image Captioning([HuggingFace](https://api-inference.huggingface.co/models/nlpconnect/vit-gpt2-image-captioning))
